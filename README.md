@@ -29,8 +29,6 @@ The data is initially present in the form csv, then imports the CSVs into a SQL 
 - Data Engineering
 - Data Analysis   
 
-DATA-MODEL.png
-
 
 ### Data Modeling
 Looking at the CSVs data and build an Entity Relationship Diagram of the tables. The Data Modeling folder contains the ER diagram and the schema code to build it.
