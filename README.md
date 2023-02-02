@@ -4,8 +4,6 @@ An end to end data engineering project on employee data which includes performin
 ## Objective
 To create an End-to-End Data Data pipeline using various Big data technologies which include the Hadoop ecosystem, SparkSql, Hive, Sqoop, etc to analyze and come up with a solution to the organization needs. To perform Exploratory Data Analysis on the given data to come up with patterns and meaningful insights. With the help of Machine Learning model to analyze the employee retention rate of the organization.
 
-![\[pic link\]](https://github.com/NITISH9891/Employee-Data-Analysis-Project/blob/main/DATA-MODEL.png)
-
 ## Data description
 The dataset consists of six csv files and are uploaded in the (/Data) folder.  The files are namely :
 
@@ -15,6 +13,9 @@ The dataset consists of six csv files and are uploaded in the (/Data) folder.  T
 4. departments.csv - List of various departments in the company.
 5. dept_manager.csv - Talks about which employee manages which department.
 6. dept_emp.csv - The department to which each employee belongs.
+
+
+![\[pic link\]](https://github.com/NITISH9891/Employee-Data-Analysis-Project/blob/main/DATA-MODEL.png)
 
 ## Technology Stack
 - MySQL
