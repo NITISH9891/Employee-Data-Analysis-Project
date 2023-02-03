@@ -2,7 +2,7 @@
 An end to end data engineering project on employee data which includes performing tasks such as Data modeling, Data Engineering and Data Analysis.
 
 ## Objective
-To create an End-to-End Data Data pipeline using various Big data technologies which include the Hadoop ecosystem, SparkSql, Hive, Sqoop, etc to analyze and come up with a solution to the organization needs. To perform Exploratory Data Analysis on the given data to come up with patterns and meaningful insights. With the help of Machine Learning model to analyze the employee retention rate of the organization.
+To create an End-to-End Data pipeline using various Big data technologies which include the Hadoop ecosystem, SparkSql, Hive, Sqoop, etc to analyze and come up with a solution to the organization needs. To perform Exploratory Data Analysis on the given data to come up with patterns and meaningful insights. With the help of Machine Learning model to analyze the employee retention rate of the organization.
 
 ## Data description
 The dataset consists of six csv files and are uploaded in the (/Data) folder.  The files are namely :
@@ -53,5 +53,4 @@ After completing the database , do the required data analysis using Spark SQL an
 - Collecting the data and transferring to HDFS.
 - Debugging alot of errors.
 - Technology related issues.
-- Creating the ML pipeline
 
